@@ -47,7 +47,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-0a1033?style=for-the-badge&logo=python&logoColor=ffd43b">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0a1033?style=for-the-badge&logo=cplusplus&logoColor=659ad2">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-0a1033?style=for-the-badge&logo=gnubash&logoColor=4eaa25">
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-0a1033?style=for-the-badge&logo=windows&logoColor=5391fe">
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-0a1033?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMyIgd2lkdGg9IjIyIiBoZWlnaHQ9IjE4IiByeD0iMyIgZmlsbD0iIzAxMjQ1NiIvPjxwYXRoIGQ9Ik01IDhsNSA0LTUgNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNTM5MWZlIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTEyIDE2aDciIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg%3D%3D">
 </p>
 
 **Servers, networks and security**

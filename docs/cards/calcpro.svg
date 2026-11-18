@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="176" viewBox="0 0 460 176" role="img" aria-label="CalcPro: Calculator, unit converter and live currency rates in one offline app">
+<defs>
+  <linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b2563"/><stop offset="1" stop-color="#151e52"/></linearGradient>
+  <linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f2c75c"/><stop offset=".6" stop-color="#c9962f"/><stop offset="1" stop-color="#aab3c9"/></linearGradient>
+</defs>
+<style>
+  .t { font: 700 25px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #ffffff; }
+  .d { font: 400 15.5px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #e8ebf3; }
+  .c { font: 700 12px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #f2c75c; letter-spacing: .3px; }
+</style>
+<rect x="1" y="1" width="458" height="174" rx="18" fill="url(#p)" stroke="#f2c75c" stroke-opacity=".3"/>
+<rect x="22" y="1" width="416" height="3" rx="1.5" fill="url(#s)"/>
+<rect x="18" y="32" width="112" height="112" rx="22" fill="#0a1033" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".06"/>
+<svg x="26" y="40" width="96" height="96" viewBox="0 0 64 64">
+  <defs><linearGradient id="calcpro-g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a2e33"/><stop offset="1" stop-color="#17191c"/></linearGradient></defs>
+  <rect width="64" height="64" rx="14" fill="url(#calcpro-g)"/>
+  <rect x="12.16" y="12.16" width="17.86" height="17.86" rx="5.00" fill="#3a3f45"/><rect x="33.98" y="12.16" width="17.86" height="17.86" rx="5.00" fill="#3a3f45"/><rect x="12.16" y="33.98" width="17.86" height="17.86" rx="5.00" fill="#3a3f45"/><rect x="33.98" y="33.98" width="17.86" height="17.86" rx="5.00" fill="#f5a524"/><rect x="38.81" y="39.88" width="8.21" height="1.79" rx="0.89" fill="#1b1406"/><rect x="38.81" y="44.16" width="8.21" height="1.79" rx="0.89" fill="#1b1406"/>
+</svg>
+<text class="t" x="146" y="66">CalcPro</text>
+<text class="d" x="146" y="100">Calculator, unit converter and live</text><text class="d" x="146" y="124">currency rates in one offline app</text>
+<rect x="146" y="138" width="71" height="24" rx="12" fill="#f2c75c" fill-opacity=".1" stroke="#f2c75c" stroke-opacity=".55"/><text class="c" x="182" y="155" text-anchor="middle">Android</text><rect x="225.39999999999998" y="138" width="71" height="24" rx="12" fill="#f2c75c" fill-opacity=".1" stroke="#f2c75c" stroke-opacity=".55"/><text class="c" x="261" y="155" text-anchor="middle">Windows</text><rect x="304.79999999999995" y="138" width="39" height="24" rx="12" fill="#f2c75c" fill-opacity=".1" stroke="#f2c75c" stroke-opacity=".55"/><text class="c" x="324" y="155" text-anchor="middle">Web</text>
+</svg>

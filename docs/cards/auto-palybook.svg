@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="176" viewBox="0 0 460 176" role="img" aria-label="auto-palybook: Ready-to-run Ansible playbooks for setting up Linux servers">
+<defs>
+  <linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b2563"/><stop offset="1" stop-color="#151e52"/></linearGradient>
+  <linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f2c75c"/><stop offset=".6" stop-color="#c9962f"/><stop offset="1" stop-color="#aab3c9"/></linearGradient>
+</defs>
+<style>
+  .t { font: 700 25px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #ffffff; }
+  .d { font: 400 15.5px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #e8ebf3; }
+  .c { font: 700 12px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #f2c75c; letter-spacing: .3px; }
+</style>
+<rect x="1" y="1" width="458" height="174" rx="18" fill="url(#p)" stroke="#f2c75c" stroke-opacity=".3"/>
+<rect x="22" y="1" width="416" height="3" rx="1.5" fill="url(#s)"/>
+<rect x="18" y="32" width="112" height="112" rx="22" fill="#0a1033" fill-opacity=".55" stroke="#ffffff" stroke-opacity=".06"/>
+<svg x="26" y="40" width="96" height="96" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="auto-palybook-tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d2a33"/>
+      <stop offset="1" stop-color="#101820"/>
+    </linearGradient>
+    <linearGradient id="auto-palybook-play" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb347"/>
+      <stop offset="1" stop-color="#f07b2a"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="124" height="124" rx="28" fill="url(#auto-palybook-tile)" stroke="#2f4250" stroke-width="2"/>
+  
+  <rect x="26" y="22" width="58" height="76" rx="9" fill="#e8eef2"/>
+  <rect x="36" y="36" width="34" height="5" rx="2.5" fill="#8fa3b0"/>
+  <rect x="36" y="48" width="26" height="5" rx="2.5" fill="#8fa3b0"/>
+  <rect x="36" y="60" width="30" height="5" rx="2.5" fill="#8fa3b0"/>
+  <rect x="36" y="72" width="20" height="5" rx="2.5" fill="#8fa3b0"/>
+  
+  <circle cx="86" cy="86" r="24" fill="url(#auto-palybook-play)" stroke="#101820" stroke-width="4"/>
+  <path d="M80 75 L97 86 L80 97 Z" fill="#ffffff"/>
+</svg>
+<text class="t" x="146" y="66">auto-palybook</text>
+<text class="d" x="146" y="100">Ready-to-run Ansible playbooks for</text><text class="d" x="146" y="124">setting up Linux servers</text>
+<rect x="146" y="138" width="71" height="24" rx="12" fill="#f2c75c" fill-opacity=".1" stroke="#f2c75c" stroke-opacity=".55"/><text class="c" x="182" y="155" text-anchor="middle">Ansible</text><rect x="225.39999999999998" y="138" width="63" height="24" rx="12" fill="#f2c75c" fill-opacity=".1" stroke="#f2c75c" stroke-opacity=".55"/><text class="c" x="257" y="155" text-anchor="middle">Docker</text><rect x="296.59999999999997" y="138" width="55" height="24" rx="12" fill="#f2c75c" fill-opacity=".1" stroke="#f2c75c" stroke-opacity=".55"/><text class="c" x="324" y="155" text-anchor="middle">Linux</text>
+</svg>

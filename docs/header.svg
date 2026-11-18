@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Hi, I am Anshuva Samanta (AnshuvaGitrepo). IT pro building apps, security tools and server automation.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c2767"/><stop offset=".5" stop-color="#121b4a"/><stop offset="1" stop-color="#0a1033"/></linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff1c4"/><stop offset=".55" stop-color="#f2c75c"/><stop offset="1" stop-color="#c9962f"/></linearGradient>
+  <linearGradient id="strip" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f2c75c"/><stop offset=".45" stop-color="#c9962f"/><stop offset=".8" stop-color="#d5dae8"/><stop offset="1" stop-color="#8f99b3"/></linearGradient>
+  <radialGradient id="glow" cx=".82" cy=".25" r=".55"><stop offset="0" stop-color="#f2c75c" stop-opacity=".16"/><stop offset="1" stop-color="#f2c75c" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity=".05"/></pattern>
+  <clipPath id="card"><rect x="10" y="10" width="1180" height="340" rx="26"/></clipPath>
+</defs>
+<style>
+  .hi { font: 600 30px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #e8ebf3; }
+  .nm { font: 800 74px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: url(#name); letter-spacing: -1.5px; }
+  .hd { font: 600 22px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #9aa6c8; letter-spacing: .5px; }
+  .tag { font: 500 24px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #e8ebf3; opacity: 0; } .t0 { opacity: 1; }
+  .trace { fill: none; stroke: #aab3c9; stroke-opacity: .45; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
+            stroke-dasharray: 600; stroke-dashoffset: 600; animation: draw 3.2s ease-out forwards; }
+  .trace.b { animation-delay: .6s; } .trace.c { animation-delay: 1.2s; }
+  .node { fill: #0a1033; stroke: #f2c75c; stroke-width: 2.4; animation: pulse 3s ease-in-out infinite; }
+  .node.b { animation-delay: 1s; } .node.c { animation-delay: 2s; }
+  .fade { animation: rise .9s ease-out both; } .fade.b { animation-delay: .25s; } .fade.c { animation-delay: .5s; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @keyframes pulse { 0%,100% { stroke-opacity: .55; } 50% { stroke-opacity: 1; } }
+  @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+  @keyframes k0{0%,0.0%{opacity:0;transform:translateY(8px)}3.0%,30.3%{opacity:1;transform:none}33.3%,100%{opacity:0;transform:translateY(-8px)}}.t0{animation:k0 12s ease-in-out infinite}@keyframes k1{0%,33.3%{opacity:0;transform:translateY(8px)}36.3%,63.7%{opacity:1;transform:none}66.7%,100%{opacity:0;transform:translateY(-8px)}}.t1{animation:k1 12s ease-in-out infinite}@keyframes k2{0%,66.7%{opacity:0;transform:translateY(8px)}69.7%,97.0%{opacity:1;transform:none}100.0%,100%{opacity:0;transform:translateY(-8px)}}.t2{animation:k2 12s ease-in-out infinite}
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; } .trace { stroke-dashoffset: 0; } .t0 { opacity: 1; }
+  }
+</style>
+<g clip-path="url(#card)">
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#dots)"/>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+  <!-- circuit traces -->
+  <path class="trace" d="M870 70 H960 l18 18 H1120 l14 14 V160"/>
+  <path class="trace b" d="M900 300 H1010 l16 -16 H1150"/>
+  <path class="trace c" d="M1040 120 V190 l20 20 H1160"/>
+  <circle class="node" cx="1134" cy="164" r="6"/>
+  <circle class="node b" cx="1154" cy="284" r="6"/>
+  <circle class="node c" cx="1164" cy="210" r="6"/>
+</g>
+<rect x="10" y="10" width="1180" height="340" rx="26" fill="none" stroke="#f2c75c" stroke-opacity=".28" stroke-width="1.5"/>
+<rect x="36" y="10" width="1128" height="4" rx="2" fill="url(#strip)"/>
+<svg x="92" y="86" width="168" height="168" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="me-tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c2767"/>
+      <stop offset="1" stop-color="#0a1033"/>
+    </linearGradient>
+    <linearGradient id="me-gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe7a3"/>
+      <stop offset="1" stop-color="#c9962f"/>
+    </linearGradient>
+    <linearGradient id="me-silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#aab3c9"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="124" height="124" rx="28" fill="url(#me-tile)" stroke="#c9962f" stroke-opacity="0.55" stroke-width="2"/>
+  
+  <path d="M44 40 L22 64 L44 88" fill="none" stroke="url(#me-gold)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M84 40 L106 64 L84 88" fill="none" stroke="url(#me-gold)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M71 34 L57 94" fill="none" stroke="url(#me-silver)" stroke-width="8" stroke-linecap="round"/>
+  
+  <path d="M30 104 H54 l6 -6 H98" fill="none" stroke="#aab3c9" stroke-opacity="0.6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="100" cy="98" r="3.4" fill="#0a1033" stroke="#f2c75c" stroke-width="2"/>
+</svg>
+<text class="hi" x="300" y="128">Hi, I'm</text>
+<text class="nm" x="296" y="200">Anshuva Samanta</text>
+<text class="hd" x="300" y="234">@AnshuvaGitrepo  /  IT pro and open-source builder</text>
+<text class="tag t0" x="300" y="268">Apps for Android, Windows and the web</text><text class="tag t1" x="300" y="268">Security tools that explain every fix in plain English</text><text class="tag t2" x="300" y="268">Server automation with Docker, Ansible and Tailscale</text>
+<g style="font:700 16px 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#f2c75c;letter-spacing:2.5px"><text x="300" y="312">OPEN SOURCE</text><rect x="452" y="303" width="7" height="7" transform="rotate(45 455.5 306.5)" fill="#e8ebf3" fill-opacity=".6"/><text x="474" y="312">OFFLINE FIRST</text><rect x="638" y="303" width="7" height="7" transform="rotate(45 641.5 306.5)" fill="#e8ebf3" fill-opacity=".6"/><text x="658" y="312">PRIVACY BY DEFAULT</text></g>
+</svg>
